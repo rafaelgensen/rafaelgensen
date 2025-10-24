@@ -16,7 +16,6 @@ I enjoy designing data platforms, automating workflows, and enabling analytics t
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -30,7 +29,6 @@ I enjoy designing data platforms, automating workflows, and enabling analytics t
 ---
 
 ### 📊 GitHub Overview
-![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgensen&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgensen&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
