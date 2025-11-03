@@ -1,5 +1,5 @@
 # Rafael — Data Engineer
-
+(lost my previous account)
 Hi, I'm **Rafael**, a Data Engineer passionate about transforming raw data into reliable, scalable, and insightful systems.  
 I enjoy designing data platforms, automating workflows, and enabling analytics teams to move faster with trustworthy data.
 
